@@ -1,2 +1,2 @@
 # mentalmaths
-Mental math game. Completed as an AP project
+Mental math game. Completed as an AP project (Spring 2018).
